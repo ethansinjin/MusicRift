@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DBC2F596-6F2A-0154-1932-BDFA5B608AC7}") = "MusicRift", "Assembly-CSharp-vs.csproj", "{CC1F6FBA-F935-A48A-0968-FF533FB5137A}"
+EndProject
+Project("{DBC2F596-6F2A-0154-1932-BDFA5B608AC7}") = "MusicRift", "Assembly-CSharp-Editor-vs.csproj", "{07B3A4A4-AC77-9DC6-3745-2A0523C6BAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1F6FBA-F935-A48A-0968-FF533FB5137A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1F6FBA-F935-A48A-0968-FF533FB5137A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1F6FBA-F935-A48A-0968-FF533FB5137A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1F6FBA-F935-A48A-0968-FF533FB5137A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B3A4A4-AC77-9DC6-3745-2A0523C6BAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B3A4A4-AC77-9DC6-3745-2A0523C6BAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B3A4A4-AC77-9DC6-3745-2A0523C6BAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B3A4A4-AC77-9DC6-3745-2A0523C6BAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																						GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
